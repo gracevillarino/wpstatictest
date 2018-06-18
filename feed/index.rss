@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Grace Testing Static &#8211; Sydney</title>
+	<title>Grace Testing Static &#8211; GeneratePress</title>
 	<atom:link href="http://staticsitebenchmarks.com/feed/" rel="self" type="application/rss+xml" />
 	<link>http://staticsitebenchmarks.com</link>
-	<description>This is just another test - Sydney</description>
-	<lastBuildDate>Mon, 18 Jun 2018 01:11:39 +0000</lastBuildDate>
+	<description>This is just another test - GeneratePress</description>
+	<lastBuildDate>Mon, 18 Jun 2018 13:21:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>

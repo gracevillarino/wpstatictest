@@ -31,7 +31,7 @@
 		<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> Remember Me</label></p>
 	<p class="submit">
 		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
-		<input type="hidden" name="redirect_to" value="https://gracevillarino.github.io/wpstatictest/wp-admin/" />
+		<input type="hidden" name="redirect_to" value="https://gracevillarino.github.io/wpstatictest/wp-admin/customize.php" />
 		<input type="hidden" name="testcookie" value="1" />
 	</p>
 </form>
