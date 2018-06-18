@@ -6,27 +6,13 @@
 	
 	>
 <channel>
-	<title>Comments for Grace Testing Static &#8211; GeneratePress</title>
-	<atom:link href="http://staticsitebenchmarks.com/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://staticsitebenchmarks.com</link>
-	<description>This is just another test - GeneratePress</description>
-	<lastBuildDate>Mon, 18 Jun 2018 01:11:39 +0000</lastBuildDate>
+	<title>Comments for Neptune Diving Adventure</title>
+	<atom:link href="http://www.neptunediving.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.neptunediving.com</link>
+	<description>5 Star PADI IDC Dive Centre in Moalboal Cebu</description>
+	<lastBuildDate>Mon, 18 Jun 2018 13:30:40 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.6</generator>
-	<item>
-		<title>Comment on Hello world! by A WordPress Commenter</title>
-		<link>http://staticsitebenchmarks.com/2018/06/18/hello-world/#comment-1</link>
-		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Mon, 18 Jun 2018 01:11:39 +0000</pubDate>
-		<guid isPermaLink="false">http://staticsitebenchmarks.com/</guid>
-		<description><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-		<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.</p>
-]]></content:encoded>
-	</item>
 </channel>
 </rss>

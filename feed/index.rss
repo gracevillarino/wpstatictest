@@ -8,29 +8,22 @@
 	>
 
 <channel>
-	<title>Grace Testing Static &#8211; GeneratePress</title>
-	<atom:link href="http://staticsitebenchmarks.com/feed/" rel="self" type="application/rss+xml" />
-	<link>http://staticsitebenchmarks.com</link>
-	<description>This is just another test - GeneratePress</description>
-	<lastBuildDate>Mon, 18 Jun 2018 13:21:40 +0000</lastBuildDate>
+	<title>Neptune Diving Adventure</title>
+	<atom:link href="http://www.neptunediving.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.neptunediving.com</link>
+	<description>5 Star PADI IDC Dive Centre in Moalboal Cebu</description>
+	<lastBuildDate>Thu, 24 May 2018 07:34:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.6</generator>
-	<item>
-		<title>Hello world!</title>
-		<link>http://staticsitebenchmarks.com/2018/06/18/hello-world/</link>
-		<comments>http://staticsitebenchmarks.com/2018/06/18/hello-world/#comments</comments>
-		<pubDate>Mon, 18 Jun 2018 01:11:39 +0000</pubDate>
-		<dc:creator><![CDATA[grace]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://staticsitebenchmarks.com/</guid>
-		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-			<wfw:commentRss>http://staticsitebenchmarks.com/2018/06/18/hello-world/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-		</item>
-	</channel>
+<image>
+	<url>http://www.neptunediving.com/contents/data/2017/05/cropped-neptune_noborder-32x32.png</url>
+	<title>Neptune Diving Adventure</title>
+	<link>http://www.neptunediving.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
 </rss>
